@@ -1,6 +1,6 @@
 import numpy
-a=5
-b=8
+a=15
+b=2
 
 sum=a+b
 print("sum of two numbers is=")=sum
