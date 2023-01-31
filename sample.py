@@ -1,6 +1,7 @@
 import numpy
 a=35
 b=48
+c=a+b
+sum=a+b+c
 
-sum=a+b
-print("sum of two numbers is=")=sum
+print("sum of three numbers is=")=sum
