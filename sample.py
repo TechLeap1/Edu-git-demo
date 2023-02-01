@@ -1,6 +1,6 @@
 import numpy
 a=35
-b=48
+b=480
 c=a+b
 sum=a+b+c
 
